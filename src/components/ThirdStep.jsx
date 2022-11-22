@@ -12,7 +12,7 @@ const ThirdStep = () => {
       <div>
         <Checkbox size="small" />
         <span>
-          I hereby declare that none of the proposed members are habitual
+          I hereby declare that none of the proposed members is habitual
           consumers of alcohol, tobacco, gutka or any recreational drugs.
         </span>
       </div>
